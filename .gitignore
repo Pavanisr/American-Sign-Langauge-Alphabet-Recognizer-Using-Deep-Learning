@@ -1,0 +1,15 @@
+ECHO is on.
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
